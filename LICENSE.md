@@ -1,3 +1,5 @@
+Papershop inherits its licensing from Paper and other upstream projects.
+
 Paper inherits its licensing from the included upstream projects.
 
 As such, Paper is licensed under the
